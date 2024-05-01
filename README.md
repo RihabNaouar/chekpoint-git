@@ -1,5 +1,5 @@
 It's a checkpoint linked to the git and github course where I used several git orders: 
-- **cd**** : Navigate to the Desired Directory
+- **cd** : Navigate to the Desired Directory
 - **mkdir**: Used to create directories (folders)
 - **pwd**: To know your current location within the file system hierarchy
 - **touch**: Used to create empty files
